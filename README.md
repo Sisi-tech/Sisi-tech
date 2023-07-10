@@ -1,4 +1,4 @@
-![Cream Aesthetic Fashion LinkedIn Banner (2)](https://github.com/Sisi-tech/Sisi-tech/assets/110059102/11843d1d-5905-45de-98e1-9912460ffd8f)
+![githubBanner](https://github.com/Sisi-tech/Sisi-tech/assets/110059102/73215db3-e7d9-4795-81ed-1e06262ad98e)
 
 <h2>Hi, I'm Sisi 😉</h2>
 
