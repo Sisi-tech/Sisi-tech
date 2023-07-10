@@ -1,16 +1,25 @@
-### Hi there 👋
+![Cream Aesthetic Fashion LinkedIn Banner (2)](https://github.com/Sisi-tech/Sisi-tech/assets/110059102/11843d1d-5905-45de-98e1-9912460ffd8f)
 
-<!--
-**Sisi-tech/Sisi-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hi, I'm Sisi 😉</h2>
 
-Here are some ideas to get you started:
+I am currently on an exciting self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in the realms of Python and JavaScript. As I navigate through the intricacies of these languages, I find immense joy in every new concept I grasp and every program I create.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🧰 Languages and Tools:</h3>
+
+---
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+<h3>📊 Stats</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sisi-tech&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sisi-tech&show_icons=true&theme=radical)
