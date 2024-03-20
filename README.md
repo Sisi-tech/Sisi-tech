@@ -1,7 +1,7 @@
 ![githubBanner](https://github.com/Sisi-tech/Sisi-tech/assets/110059102/73215db3-e7d9-4795-81ed-1e06262ad98e)
 
 <h2>Hi, I'm Sisi 😉</h2>
-<p>I am currently on an exciting self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in the realms of Python and JavaScript. As I navigate through the intricacies of these languages, I find immense joy in every new concept I grasp and every program I create. </p>
+
 
 <h3>🧰 Languages and Tools:</h3>
 
