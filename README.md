@@ -1,7 +1,7 @@
 ![githubBanner](https://github.com/Sisi-tech/Sisi-tech/assets/110059102/73215db3-e7d9-4795-81ed-1e06262ad98e)
 
 <h2>Hi, I'm Sisi 😉</h2>
-
+<p>I'm a passionate junior software engineer with a strong interest in building efficient and scalable software solutions. Currently exploring various technologies and frameworks to expand my skills and knowledge.</p>
 
 <h3>🧰 Languages and Tools:</h3>
 
