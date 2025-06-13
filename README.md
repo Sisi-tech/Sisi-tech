@@ -1,4 +1,5 @@
-![githubBanner](https://github.com/Sisi-tech/Sisi-tech/assets/110059102/73215db3-e7d9-4795-81ed-1e06262ad98e)
+
+![Cream Aesthetic Fashion LinkedIn Banner](https://github.com/user-attachments/assets/8989a985-8e39-4598-a1a1-681318f0f565)
 
 <h2>Hi, I'm Sisi 😉</h2>
 <p>I'm a passionate software engineer with a strong interest in building efficient and scalable software solutions. Currently exploring various technologies and frameworks to expand my skills and knowledge.</p>
