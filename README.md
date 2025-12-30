@@ -30,8 +30,10 @@
 
 <h3>📊 Stats</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sisi-tech&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sisi-tech&theme=dark&background=000000)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sisi-tech&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sisi-tech&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sisi-tech&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sisi-tech&layout=compact&theme=radical)
+
 
